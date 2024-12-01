@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1352B94B-7FF9-4D13-9F09-493A602A70AC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "244F784F-BD0A-4CCA-A11B-9284CC944174"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MY BASIC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "clearTextButtonTapped(_:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.AppleScript">
+                  <ActionContent>
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "187FC017-7186-483A-9D70-638F4FEB4BB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MY BASIC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MY BASIC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C - 5db78c7591d703c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MY_BASIC.ViewController.textField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MY BASIC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuelromero/Documents/MNYNEQ/MY%20BASIC/MY%20BASIC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C - d73777561fc10c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MY_BASIC.ViewController.textField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MY BASIC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuelromero/Documents/MNYNEQ/MY%20BASIC/MY%20BASIC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C - 90091f00f6ef9568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MY_BASIC.ViewController.textField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MY BASIC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuelromero/Documents/MNYNEQ/MY%20BASIC/MY%20BASIC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C - 9153c9321b4ccf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MY_BASIC.ViewController.textField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MY BASIC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuelromero/Documents/MNYNEQ/MY%20BASIC/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C - e67e502b14afe334"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MY_BASIC.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MY_BASIC.ViewController"
+                  moduleName = "MY BASIC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuelromero/Documents/MNYNEQ/MY%20BASIC/MY%20BASIC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+               <Location
+                  uuid = "40386D97-B8B5-449E-A827-36E3D602ED4C - e798f2a8683ec19e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MY_BASIC.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MY_BASIC.ViewController&gt;"
+                  moduleName = "MY BASIC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manuelromero/Documents/MNYNEQ/MY%20BASIC/MY%20BASIC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3116E7C5-1417-4E15-8551-142560F61415"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MY BASIC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
